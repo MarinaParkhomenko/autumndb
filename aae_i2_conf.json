@@ -1,0 +1,24 @@
+{
+  "current": {
+    "snapshot_receiver": {
+      "addr": "0.0.0.0",
+      "port": 50012
+    },
+    "document_receiver": {
+      "addr": "0.0.0.0",
+      "port": 50013
+    }
+  },
+  "neighbors": [
+    {
+      "snapshot_receiver": {
+      "addr": "0.0.0.0",
+      "port": 50002
+    },
+    "document_receiver": {
+      "addr": "0.0.0.0",
+      "port": 50003
+    }
+    }
+  ]
+}
