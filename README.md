@@ -58,7 +58,7 @@ print(doc_id)
 
 doc_id = driver.create_document(collection, doc)
 
-data = '{"firstname": "Valerii2"}'
+data = '{"firstname": "Maryna"}'
 doc = Document(data)
 driver.update_document(collection, doc_id, doc)
 
